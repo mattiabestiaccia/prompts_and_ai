@@ -32,10 +32,7 @@ prompts_and_ai/
 │   └── math/                   # Prompt per matematica
 │       └── mathematical_problem_solving.md # Risoluzione problemi matematici
 │
-├── prompt_1.md             # (Legacy) Esempio: Configurazione Claude Desktop + WSL
-├── prompts_2.md            # (Legacy) Esempio: Test
-├── prompt_3_data_analysis.md    # (Legacy) Esempio: Data Analysis con Python
-└── prompt_4_api_documentation.md # (Legacy) Esempio: Documentazione API
+└── README.md               # Documentazione del progetto
 ```
 
 ## Come Usare i Prompt
