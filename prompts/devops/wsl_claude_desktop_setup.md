@@ -29,7 +29,7 @@ Ti chiedo di:
     
 - Restituirmi esplicitamente il path `\\wsl$\...` da incollare in Claude Desktop.
     
-- Descrivere i passaggi clic‑per‑clic dentro Claude Desktop per aggiungere quella cartella al Filesystem.
+- Descrivere i passaggi clic-per-clic dentro Claude Desktop per aggiungere quella cartella al Filesystem.
     
 - Fornirmi, se opportuno, uno snippet completo di configurazione MCP in JSON o YAML per Claude Desktop, con campi tipo `command`, `args`, `env`, `basePath`, ecc., usando valori realistici basati sul mio setup.
     
